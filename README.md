@@ -42,3 +42,7 @@ The final part of the module covered brute force attacks. Hydra was used to atte
 Hydra works by testing hundreds or thousands of password combinations until it successfully authenticates. This is an example of a brute force attack where an attacker does not know the exact password but uses wordlists or known leaked credentials to attempt access.
 The attacker showed how Hydra worked by running through possible combinations and successfully gaining access to the FTP service with the password “admin123.”
 The demonstration also highlighted the importance of defenses against such attacks, including timeouts, account lockouts, and multi-factor authentication.
+
+## Video Walkthrough
+
+[![Watch the video](https://img.youtube.com/vi/vqfXEbwMKJ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=vqfXEbwMKJ4&t=70s)
