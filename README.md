@@ -7,16 +7,16 @@ Understand and demonstrate the workings of various network attack and defense st
 
 ### Skills Learned
 
-- **Advanced understanding of Cross-Site Scripting (XSS) attacks and payload injection techniques.
-- **Practical application of network scanning tools and techniques to identify open ports and services.
-- **Hands-on experience with brute force attack methods using Hydra and the importance of strong authentication mechanisms.
-- **Improved knowledge of social engineering tactics and network security vulnerabilities.
+- Advanced understanding of Cross-Site Scripting (XSS) attacks and payload injection techniques.
+- Practical application of network scanning tools and techniques to identify open ports and services.
+- Hands-on experience with brute force attack methods using Hydra and the importance of strong authentication mechanisms.
+- Improved knowledge of social engineering tactics and network security vulnerabilities.
 
 ### Tools Used
 
-- **Hydra (Brute force tool)
-- **Network scanning tools (e.g., Nmap)
-- **Various network services for testing attacks (FTP, SMB, HTTP, etc.)
+- Hydra (Brute force tool)
+- Network scanning tools (e.g., Nmap)
+- Various network services for testing attacks (FTP, SMB, HTTP, etc.)
 
 ## Steps
 Step 1: XSS Attack Demonstration
