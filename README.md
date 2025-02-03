@@ -1,12 +1,11 @@
 # EC-Network-Defender-Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 Understand and demonstrate the workings of various network attack and defense strategies, including XSS attacks, network scanning, and brute force attacks.
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 Advanced understanding of Cross-Site Scripting (XSS) attacks and payload injection techniques.
 Practical application of network scanning tools and techniques to identify open ports and services.
@@ -14,7 +13,7 @@ Hands-on experience with brute force attack methods using Hydra and the importan
 Improved knowledge of social engineering tactics and network security vulnerabilities.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 Hydra (Brute force tool)
 Network scanning tools (e.g., Nmap)
