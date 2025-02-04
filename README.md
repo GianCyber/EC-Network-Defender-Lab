@@ -45,4 +45,5 @@ The demonstration also highlighted the importance of defenses against such attac
 
 ## Video Walkthrough
 
-[![Watch the video](https://img.youtube.com/vi/vqfXEbwMKJ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=vqfXEbwMKJ4&t=70s)
+[![Watch the video](https://img.youtube.com/vi/vqfXEbwMKJ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=cJ2FUYnyvv0)
+
